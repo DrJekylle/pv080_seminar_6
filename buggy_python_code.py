@@ -2,7 +2,7 @@ import sys
 import os
 import yaml
 import flask
-import urllib{3} as urllib
+import urllib3 as urllib
 
 app = flask.Flask(__name__)
 
